@@ -482,10 +482,10 @@
 
 1329	Sort the Matrix Diagonally	83.0%	Medium  	
 
-1630	Arithmetic Subarrays	83.9%	Medium  	
+- [x] 1630	Arithmetic Subarrays	83.9%	Medium  	
 
-1409	Queries on a Permutation With Key	84.0%	Medium  	
+- [x] 1409	Queries on a Permutation With Key	84.0%	Medium  	
 
-1561	Maximum Number of Coins You Can Get	84.6%	Medium  	
+- [x] 1561	Maximum Number of Coins You Can Get	84.6%	Medium  	
 
-2161	Partition Array According to Given Pivot	84.7%	Medium  
+- [x] 2161	Partition Array According to Given Pivot	84.7%	Medium  
