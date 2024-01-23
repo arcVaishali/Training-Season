@@ -478,7 +478,7 @@
 
 1008	Construct Binary Search Tree from Preorder Traversal	81.8%	Medium  	
 
-2149	Rearrange Array Elements by Sign	82.1%	Medium  	
+- [x] 2149	Rearrange Array Elements by Sign	82.1%	Medium  	
 
 - [x] 1329	Sort the Matrix Diagonally	83.0%	Medium  	
 
