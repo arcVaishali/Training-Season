@@ -472,7 +472,7 @@
 
 1817	Finding the Users Active Minutes	80.3%	Medium  	
 
-2657	Find the Prefix Common Array of Two Arrays	80.3%	Medium  
+2657	Find the Prefix -[]  Common Array of Two Arrays	80.3%	Medium  
 
 1877	Minimize Maximum Pair Sum in Array	81.6%	Medium  
 
@@ -480,7 +480,7 @@
 
 2149	Rearrange Array Elements by Sign	82.1%	Medium  	
 
-1329	Sort the Matrix Diagonally	83.0%	Medium  	
+- [x] 1329	Sort the Matrix Diagonally	83.0%	Medium  	
 
 - [x] 1630	Arithmetic Subarrays	83.9%	Medium  	
 
