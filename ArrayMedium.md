@@ -476,7 +476,7 @@
 
 1877	Minimize Maximum Pair Sum in Array	81.6%	Medium  
 
-1008	Construct Binary Search Tree from Preorder Traversal	81.8%	Medium  	
+- [x] 1008	Construct Binary Search Tree from Preorder Traversal	81.8%	Medium  	
 
 - [x] 2149	Rearrange Array Elements by Sign	82.1%	Medium  	
 
