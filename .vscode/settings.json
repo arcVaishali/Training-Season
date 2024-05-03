@@ -5,6 +5,8 @@
         "algorithm": "cpp",
         "limits": "cpp",
         "utility": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
     }
 }
