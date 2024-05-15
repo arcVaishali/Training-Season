@@ -19,7 +19,7 @@ int main() {
     ptr = "Hello World" ; // ISO c++ forbids converting string constant to char* but in c it will work
     printf("%c\n" , *&*ptr ) ;
 
-    printf("%d", f(c, b, a));
+    printf("%d", f(c, b, a)) ;
 
 
     /*
